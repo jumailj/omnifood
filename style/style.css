@@ -324,3 +324,22 @@
     font-size:1.6rem;
     color:#6f6f6f;
   }
+
+  .gallery{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:1.6rem;
+    padding:1.6rem;
+  }
+
+  .gallery-item img {
+    display: block;
+    width: 100%;
+
+  }
+
+  /****section meals ********/
+
+  .section-pricing{
+    padding:9.6rem 0;
+  }
