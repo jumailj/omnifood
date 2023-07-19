@@ -139,7 +139,12 @@ body{
     box-shadow: inset 0 0 0 3px #fff;
 }
 
-
+.btn--form{
+    background-color: #45260a;
+    color:#fdf2e9;
+    align-self: end;
+    padding:1.2rem;
+}
 .list{
     list-style:none;
     display: flex;
